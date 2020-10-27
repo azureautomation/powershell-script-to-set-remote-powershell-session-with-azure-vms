@@ -1,0 +1,20 @@
+{
+    "Author": "Sam Boutros",
+    "ContentSize": 4414,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-script-to-set-remote-powershell-session-with-azure-vms/master/AzureVM-RemotePS.ps1",
+    "DownloadCount": 885,
+    "Id": "Powershell-script-to-set-fbb963b5",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 477,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-2-15T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "In Azure Microsoft has a large list of VM templates that can be used in the Gallery to provision VMs. These VMs come with few pre-configured features to facilitate secure powershell remoting into the VMs:- WinRM is enabled and configured to listen on HTTPS port 5986- A certificat",
+    "Title": "Powershell script to set remote powershell session with Azure VMs",
+    "UpdatedDate": "2016-3-28T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-script-to-set-remote-powershell-session-with-azure-vms",
+    "UserTags": "Microsoft Azure, Powershell, Powershell remoting to Azure VM"
+}
